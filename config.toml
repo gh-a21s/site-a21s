@@ -30,9 +30,9 @@ paginate = 10
 #    weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "Services"
     identifier = "About"
-    url  = "/About/"
+    url  = "/about/"
     weight = 2
 
 [[menu.main]]
