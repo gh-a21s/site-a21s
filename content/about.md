@@ -11,8 +11,8 @@ keywords = ["FAQ","About","questions","services"]
 * Business intelligence and data analysis application development
 * Information governance and management
 * Application identity management
-* Single Sign-On
-* Multi-Factor Authentication
+* Single sign-on
+* Multi-factor authentication
 * General technical support services 
 
 
