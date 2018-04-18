@@ -5,7 +5,7 @@ keywords = ["FAQ","About","questions","services"]
 +++
 ---
 
-> We specialize in sourcing IT professionals with a wise variety of skills including:
+> We specialize in sourcing IT professionals with a wide variety of skills:
 
 * Messaging and collaboration architecture, integration and support
 * Business intelligence and data analysis application development
