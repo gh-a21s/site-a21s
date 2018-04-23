@@ -57,7 +57,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "https://twitter.com/a21sTech"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
